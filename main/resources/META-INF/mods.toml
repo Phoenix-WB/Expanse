@@ -1,0 +1,26 @@
+modLoader="javafml" #mandatory
+loaderVersion="[38,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+[[mods]] #mandatory
+modId="expanse" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Expanse" #mandatory
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+logoFile="expanse.png" #optional
+credits="Join my server for more development!: https://discord.gg/ykpkRJR9Kk" #optional
+authors="PhoenixWB" #optional
+description='''
+This mod aims to add in a variety of different things and features in order to "expand" on the minecraft experience.
+'''
+[[dependencies.examplemod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[38,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"

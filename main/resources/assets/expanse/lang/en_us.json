@@ -1,0 +1,13 @@
+{
+	"block.expanse.small_grass": "Small Grass",
+	"block.expanse.mallee_shrub": "Mallee Shrub",
+	"block.expanse.mallee_stem": "Mallee Stem",
+	"block.expanse.mallee_leaves": "Mallee Leaves",
+	
+	"block.expanse.copper_forge": "Copper Forge",
+	
+	"itemGroup.expanse_world": "Expanse World",
+	"itemGroup.expanse_tech": "Expanse Tech",
+	
+	"biome.expanse.shrubland": "Shrubland"
+}
